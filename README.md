@@ -1,9 +1,12 @@
 
-EFI文件下载地址 https://wwa.lanzoui.com/b00nzab4j 
+EFI文件下载地址： https://wwa.lanzoui.com/b00nzab4j 
 
 原高通无线网卡无法驱动已更换AX200,核显蓝牙触摸板均正常。
 
-无法调整亮度，无法隔空投送
+1.无法调整亮度
+2.无法隔空投送
+3.无hdpi
+4.双硬盘开机大概率会出错重复几次能进系统单硬盘无故障
 
 我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620），我搜了下gayhub没有这个型号的笔记本所以名称里添加了A515，感觉这两个笔记本的配置差别不大。有更好的efi配置请分享给我，谢谢。
 
