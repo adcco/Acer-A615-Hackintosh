@@ -1,5 +1,5 @@
 
-Acer-A615-OpenCore-Monterey EFI文件下载地址 https://wwa.lanzoui.com/b00nzab4j 
+EFI文件下载地址 https://wwa.lanzoui.com/b00nzab4j 
 
 原高通无线网卡无法驱动已更换AX200,核显蓝牙触摸板均正常。
 
