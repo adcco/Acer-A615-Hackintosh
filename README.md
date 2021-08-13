@@ -1,1 +1,1 @@
-#Acer-A615-OpenCore0.6.3-BigSur11.1# EFI文件下载地址 https://wwa.lanzous.com/b00nzab4j 原高通无线网卡无法驱动已更换AX200,蓝牙触摸板均正常。我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620），我搜了下gayhub没有这个型号的笔记本所以名称里添加了A515，不过这两个笔记本的配置差别应该不大。有更好的efi配置请分享给我，谢谢。
+#Acer-A615-OpenCore-Monterey EFI文件下载地址 https://wwa.lanzous.com/b00nzab4j 原高通无线网卡无法驱动已更换AX200,蓝牙触摸板均正常。我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620），我搜了下gayhub没有这个型号的笔记本所以名称里添加了A515，不过这两个笔记本的配置差别应该不大。有更好的efi配置请分享给我，谢谢。
