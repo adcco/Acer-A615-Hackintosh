@@ -19,7 +19,7 @@ EFI文件加速下载地址： https://wwa.lanzoui.com/b00nzab4j
 
 4.已修复亮度调整（删除了“-igfxblr”和“enable-backlight-registers-fix”参数并定制SSDT-PNLF后成功修复）；
 
-5.修复macOS12蓝牙关闭无法打开，修复USB网络共享。
+5.修复macOS12蓝牙关闭无法打开。
 
 不出意外的话我会每月更新open core版本及驱动，我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620），我搜了下gayhub没有这个型号的笔记本所以添加了关键词A515，感觉这两个笔记本的配置差别不大。有更好的efi配置或者可以帮助修复以上问题请联系我971247666@qq.com，谢谢。
 
