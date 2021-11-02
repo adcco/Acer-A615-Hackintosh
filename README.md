@@ -1,7 +1,7 @@
 
-EFI文件下载地址： https://wwa.lanzoui.com/b00nzab4j 
+EFI文件加速下载地址： https://wwa.lanzoui.com/b00nzab4j 
 
-正常工作：CPU变频、核显、亮度、声卡、键盘、触摸板、USB已定制、电池。
+正常工作：CPU变频、核显、亮度、声卡、键盘、触摸板、USB已定制、电池、蓝牙、WI-FI。
 
 存在问题：
 
@@ -17,7 +17,9 @@ EFI文件下载地址： https://wwa.lanzoui.com/b00nzab4j
 
 3.读卡器已成功驱动但未测试可用性，开机需要添加 -rtsfbeta ；
 
-4.已修复亮度调整（删除了“-igfxblr”和“enable-backlight-registers-fix”参数并定制SSDT-PNLF后成功修复）。
+4.已修复亮度调整（删除了“-igfxblr”和“enable-backlight-registers-fix”参数并定制SSDT-PNLF后成功修复）；
+
+5.修复macOS12蓝牙关闭无法打开，修复USB网络共享。
 
 不出意外的话我会每月更新open core版本及驱动，我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620），我搜了下gayhub没有这个型号的笔记本所以添加了关键词A515，感觉这两个笔记本的配置差别不大。有更好的efi配置或者可以帮助修复以上问题请联系我971247666@qq.com，谢谢。
 
