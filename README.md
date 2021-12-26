@@ -7,7 +7,7 @@ EFI文件蓝奏云下载地址： https://wwa.lanzoui.com/b00nzab4j
 
 1.已删除三码请自行添加三码;
 
-2.无hidpi，开启hidpi后遇到了第二阶段大苹果图标；
+2.无hidpi，开启hidpi后开机第二阶段大苹果图标；
 
 3.独立显卡MX150 无法驱动已禁用；
 
