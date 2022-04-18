@@ -1,5 +1,5 @@
 
-EFI文件蓝奏云下载地址： https://wwa.lanzoui.com/b00nzab4j 
+EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j 
 
 正常工作：CPU变频、核显、亮度、声卡、键盘、触摸板、USB已定制、电池、以太网。
 
