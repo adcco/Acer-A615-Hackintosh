@@ -1,3 +1,4 @@
+macOS13已开始测试，macOS12的EFI已终止更新，如果可以解决macOS13Beta EFI中出现的问题请联系我971247666@qq.com，谢谢！
 
 EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j 
 
@@ -22,7 +23,7 @@ EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j
 不出意外的话我会每月更新open core版本及驱动，我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620）
 有更好的efi配置或者可以帮助修复以上问题请联系我971247666@qq.com，谢谢。
 
-![截屏2021-08-13 上午11 56 53](https://user-images.githubusercontent.com/67421836/129302893-6cb3954e-9356-4dc9-80e0-000f0ea93af2.png)
+![2022-06-10 14 29 55](https://user-images.githubusercontent.com/67421836/173004834-25214a95-18b9-4e18-bb6f-4c3a32bc283f.png)
 
 图片上的配置文件都是我改着玩的 可在config.plist文件内查看
 
