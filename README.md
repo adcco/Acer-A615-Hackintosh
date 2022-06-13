@@ -1,4 +1,3 @@
-macOS13已开始测试，macOS12的EFI已终止更新，如果可以解决macOS13Beta EFI中出现的问题请联系我971247666@qq.com，谢谢！
 
 EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j 
 
