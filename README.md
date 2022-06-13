@@ -20,7 +20,7 @@ EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j
 
 7.手机放在电脑C面特定位置由于手机磁场会触发电脑合盖操作导致电脑睡眠黑屏无法亮屏，合盖再打开可以解决。
 
-不出意外的话我会每月更新open core版本及驱动，我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620）
+跟随open core版本及驱动而更新EFI，我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620）
 有更好的efi配置或者可以帮助修复以上问题请联系我971247666@qq.com，谢谢。
 
 ![2022-06-10 14 29 55](https://user-images.githubusercontent.com/67421836/173004834-25214a95-18b9-4e18-bb6f-4c3a32bc283f.png)
