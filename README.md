@@ -22,7 +22,7 @@ EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j
 跟随open core版本及驱动而更新EFI，我的笔记本电脑是Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620）
 有更好的efi配置或者可以帮助修复以上问题请联系我971247666@qq.com，谢谢。
 
-![2022-06-10 14 29 55](https://user-images.githubusercontent.com/67421836/173004834-25214a95-18b9-4e18-bb6f-4c3a32bc283f.png)
+![截屏2022-08-05 17 36 35](https://user-images.githubusercontent.com/67421836/183051957-7cb31d77-5eef-4384-85c3-ee3d8b7d2798.png)
 
 图片上的配置文件都是我改着玩的 可在config.plist文件内查看
 
