@@ -1,8 +1,6 @@
 
 EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j
 
-~~正常工作：CPU变频、核显、亮度、声卡、键盘、触摸板、USB已定制、电池、以太网。~~
-
 1.已删除三码请自行添加三码;
 
 2.无hidpi，开启hidpi后开机第二阶段大苹果图标；
@@ -19,7 +17,8 @@ EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j
 
 笔记本型号Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620）
 
-![截屏2025-06-20 19 08 49](https://github.com/user-attachments/assets/32330b04-f2f9-42ae-bf47-0f881fb0afa4)
+![Uploading 截屏2025-09-18 19.57.00.png…]()
+
 
 图片上的配置文件都是我改着玩的 可在config.plist文件内查看
 
