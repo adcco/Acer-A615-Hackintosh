@@ -17,8 +17,7 @@ EFI文件蓝奏云下载地址： https://wwz.lanzouj.com/b00nzab4j
 
 笔记本型号Acer-A615-51G-51MQ，Corei5-8250U（Intel UHD Graphics 620）
 
-![Uploading 截屏2025-09-18 19.57.00.png…]()
-
+<img width="1920" height="1080" alt="截屏2025-09-18 19 57 00" src="https://github.com/user-attachments/assets/dfc2190a-e1ac-4d57-bd25-954178ca5488" />
 
 图片上的配置文件都是我改着玩的 可在config.plist文件内查看
 
